@@ -1,0 +1,6 @@
+[submodule "ch1-2/guessing_game"]
+	path = ch1-2/guessing_game
+	url = https://github.com/zhangchl007/learning-rust-lang.git
+[submodule "ch1-2/hello_cargo"]
+	path = ch1-2/hello_cargo
+	url = https://github.com/zhangchl007/learning-rust-lang.git
