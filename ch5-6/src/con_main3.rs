@@ -23,13 +23,14 @@ impl UsState {
 }
 
 fn describe_state_quarter(coin: Coin, year: u16) {
-    let Coin::Quarter(state) = coin else {
-        return;
-    };
-    if state.exists_in(year) {
-        println!("The quarter from {:?} existed in {}.", state, year);
+    if let Coin::Quarter(state) = coin {
+        if state.exists_in(year) {
+            println!("This state existed in {}: {:?}", year, &state);
+        } else {
+            println!("This state did not exist in {}: {:?}", year, &state);
+        }
     } else {
-        println!("The quarter from {:?} did not exist in {}.", state, year);
+        // Not a quarter; nothing to describe.
     }
 }
 
