@@ -1,0 +1,1 @@
+/Volumes/data2/rust/projects/learning-rust-lang/ch7-8/restaurant/target/debug/librestaurant.rlib: /Volumes/data2/rust/projects/learning-rust-lang/ch7-8/restaurant/src/front_of_house.rs /Volumes/data2/rust/projects/learning-rust-lang/ch7-8/restaurant/src/lib.rs

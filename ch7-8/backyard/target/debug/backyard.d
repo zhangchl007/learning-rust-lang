@@ -1,0 +1,1 @@
+/Volumes/data2/rust/projects/learning-rust-lang/ch7-8/backyard/target/debug/backyard: /Volumes/data2/rust/projects/learning-rust-lang/ch7-8/backyard/src/garden/vegetables.rs /Volumes/data2/rust/projects/learning-rust-lang/ch7-8/backyard/src/garden.rs /Volumes/data2/rust/projects/learning-rust-lang/ch7-8/backyard/src/main.rs
